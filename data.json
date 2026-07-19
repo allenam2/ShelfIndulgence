@@ -19,7 +19,7 @@
       "author": "Colleen Hoover",
       "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Alfred_Schwarzschild%27s_%22Truth%22.jpg/330px-Alfred_Schwarzschild%27s_%22Truth%22.jpg",
       "pitcher": "",
-      "avg": "3",
+      "avg": "6",
       "mvp": "",
       "lvp": "",
       "cage": "",
@@ -28,15 +28,15 @@
       "scores": {}
     },
     {
-      "book": "",
-      "author": "",
-      "cover": "",
+      "book": "The Women",
+      "author": "Kristin Hannah",
+      "cover": "https://en.wikipedia.org/wiki/The_Women_(Hannah_novel)",
       "pitcher": "",
-      "avg": "",
+      "avg": "10",
       "mvp": "",
       "lvp": "",
       "cage": "",
-      "genre": "",
+      "genre": "historical",
       "quote": "",
       "scores": {}
     },
@@ -458,5 +458,5 @@
     "responses": []
   },
   "formspreeEndpoint": "https://formspree.io/f/mbdnovgb",
-  "lastPublished": "2026-07-19T18:32:20.010Z"
+  "lastPublished": "2026-07-19T18:36:08.631Z"
 }
