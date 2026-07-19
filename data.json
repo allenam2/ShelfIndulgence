@@ -1,16 +1,29 @@
 {
-  "members": [],
+  "members": [
+    "Audrey",
+    "Ally",
+    "Anna",
+    "Becky T",
+    "Becky B",
+    "Amanda B",
+    "Amanda H",
+    "Emily",
+    "Helen",
+    "Kayla",
+    "Lindsay",
+    "Michelle"
+  ],
   "scoreboard": [
     {
-      "book": "",
-      "author": "",
-      "cover": "",
-      "pitcher": "",
+      "book": "The Five-Star Weekend",
+      "author": "Elin Hilderbrand",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/d/d8/The_Five-Star_Weekend.webp",
+      "pitcher": "Becky T",
       "avg": "",
       "mvp": "",
       "lvp": "",
       "cage": "",
-      "genre": "",
+      "genre": "contemporary",
       "quote": ""
     },
     {
@@ -427,12 +440,12 @@
   "pitches": [],
   "archive": [],
   "meeting": {
-    "date": "",
-    "time": "",
+    "date": "2026-08-02",
+    "time": "12:00",
     "frequency": "Monthly",
-    "venue": "",
-    "address": ""
+    "venue": "Apres",
+    "address": "148 Anderson St, Portland, ME 04101"
   },
   "formspreeEndpoint": "https://formspree.io/f/mbdnovgb",
-  "lastPublished": "2026-07-19T14:33:45.067Z"
+  "lastPublished": "2026-07-19T14:45:58.453Z"
 }
