@@ -1,0 +1,436 @@
+{
+  "members": [],
+  "scoreboard": [
+    {
+      "book": "",
+      "author": "",
+      "cover": "",
+      "pitcher": "",
+      "avg": "",
+      "mvp": "",
+      "lvp": "",
+      "cage": "",
+      "genre": "",
+      "quote": ""
+    },
+    {
+      "book": "",
+      "author": "",
+      "cover": "",
+      "pitcher": "",
+      "avg": "",
+      "mvp": "",
+      "lvp": "",
+      "cage": "",
+      "genre": "",
+      "quote": ""
+    },
+    {
+      "book": "",
+      "author": "",
+      "cover": "",
+      "pitcher": "",
+      "avg": "",
+      "mvp": "",
+      "lvp": "",
+      "cage": "",
+      "genre": "",
+      "quote": ""
+    },
+    {
+      "book": "",
+      "author": "",
+      "cover": "",
+      "pitcher": "",
+      "avg": "",
+      "mvp": "",
+      "lvp": "",
+      "cage": "",
+      "genre": "",
+      "quote": ""
+    },
+    {
+      "book": "",
+      "author": "",
+      "cover": "",
+      "pitcher": "",
+      "avg": "",
+      "mvp": "",
+      "lvp": "",
+      "cage": "",
+      "genre": "",
+      "quote": ""
+    }
+  ],
+  "categories": [
+    {
+      "title": "The Rereadability Scale",
+      "tag": "dry",
+      "desc": "Are you rereading this in five years or is it going straight in the library donation bin. 5 = actual reread, 1 = you'd rather reread a school pickup line group text.",
+      "genres": [
+        "universal"
+      ]
+    },
+    {
+      "title": "Best & Worst",
+      "tag": "roast",
+      "desc": "Best character and worst character, back to back. \u201cThe protagonist\u201d isn't an automatic answer for best, that's just the one who remembers everyone's birthday and never gets thanked. Worst is whoever should've been written out by chapter two and instead got a whole redemption arc nobody asked for.",
+      "genres": [
+        "universal"
+      ]
+    },
+    {
+      "title": "The Poor Man's ___",
+      "tag": "ref",
+      "desc": "What book or author is this quietly copying. Extra credit for naming the exact book the author clearly had open in another tab.",
+      "genres": [
+        "contemporary",
+        "romance",
+        "thriller",
+        "historical",
+        "fantasy"
+      ]
+    },
+    {
+      "title": "The \u201cWhat Was She Thinking\u201d Award",
+      "tag": "ref",
+      "desc": "The single most eye-roll-inducing choice in the book. You cannot nominate yourself \u2014 somebody else has to back you up independently or it doesn't count.",
+      "genres": [
+        "contemporary",
+        "romance",
+        "thriller",
+        "historical",
+        "fantasy"
+      ]
+    },
+    {
+      "title": "Casting Call",
+      "tag": "ref",
+      "desc": "Real actors only. \u201cI don't watch anything\u201d is not a pass, guess anyway and defend it.",
+      "genres": [
+        "contemporary",
+        "romance",
+        "thriller",
+        "historical",
+        "fantasy"
+      ]
+    },
+    {
+      "title": "Group Chat Test",
+      "tag": "dry",
+      "desc": "Was there a line or scene worth screenshotting and sending unprompted. If nobody sent anything, ask why the book couldn't clear that bar.",
+      "genres": [
+        "universal"
+      ]
+    },
+    {
+      "title": "One Change",
+      "tag": "dry",
+      "desc": "Rewrite one thing. Ending, character's fate, whatever. Defend it like the author is sitting across the table and can't leave.",
+      "genres": [
+        "universal"
+      ]
+    },
+    {
+      "title": "The Airport Test",
+      "tag": "dry",
+      "desc": "Would you have actually bought this at the airport bookstore for a delay, or does it only survive because it was assigned.",
+      "genres": [
+        "thriller",
+        "historical"
+      ]
+    },
+    {
+      "title": "The Sunk Cost Award",
+      "tag": "roast",
+      "desc": "For whoever kept reading a book they clearly weren't loving out of pure stubbornness, then finished it at midnight instead of admitting defeat.",
+      "genres": [
+        "universal"
+      ]
+    },
+    {
+      "title": "The Carpool Crew",
+      "tag": "roast",
+      "desc": "One character you'd want in your carpool line when things go sideways, one you'd leave stranded without a second thought. Every book has both.",
+      "genres": [
+        "contemporary",
+        "romance",
+        "thriller",
+        "historical",
+        "fantasy"
+      ]
+    },
+    {
+      "title": "The \u201cI Read This Before Kids\u201d Callback",
+      "tag": "confession",
+      "desc": "Would you-before-motherhood have gotten anything from this, or does it only land now that you've got a mortgage, a carpool schedule, and none of the patience you used to fake having.",
+      "genres": [
+        "universal"
+      ]
+    },
+    {
+      "title": "The Almost Test",
+      "tag": "confession",
+      "desc": "Is there a decision in this book you've personally almost made in real life. Confess or lie, either way it's a bit.",
+      "genres": [
+        "contemporary",
+        "thriller"
+      ]
+    },
+    {
+      "title": "The Sunday Scaries Rating",
+      "tag": "confession",
+      "desc": "How wrecked did this leave you, same scale you already use for Sunday night dread instead of feelings. 5 = unprompted midnight text to the group chat, 1 = forgotten by carpool the next morning.",
+      "genres": [
+        "universal"
+      ]
+    },
+    {
+      "title": "Hot Take Insurance",
+      "tag": "confession",
+      "desc": "Before discussion, everyone secretly predicts how the group reacts to the book. Wrong guesses owe a dollar to the class snack fund.",
+      "genres": [
+        "universal"
+      ]
+    },
+    {
+      "title": "Most Likely to Ruin a Toast",
+      "tag": "roast",
+      "desc": "Which character, if they showed up tipsy to your wedding, gives the toast that ends the reception early.",
+      "genres": [
+        "contemporary",
+        "romance",
+        "thriller",
+        "historical",
+        "fantasy"
+      ]
+    },
+    {
+      "title": "The Third Act Problem",
+      "tag": "ref",
+      "desc": "Every movie falls apart in the third act. Does this book. Where exactly \u2014 \u201cthe ending\u201d is not an answer.",
+      "genres": [
+        "contemporary",
+        "romance",
+        "thriller",
+        "historical",
+        "fantasy"
+      ]
+    },
+    {
+      "title": "Oscar Bait or Actually Good",
+      "tag": "ref",
+      "desc": "Is this book genuinely great or just dressed up to look important. Be honest about which one you fell for.",
+      "genres": [
+        "contemporary",
+        "historical"
+      ]
+    },
+    {
+      "title": "The Studio Note",
+      "tag": "ref",
+      "desc": "What would a nervous studio exec have demanded cut or changed to sell better, and would that have improved or ruined it.",
+      "genres": [
+        "thriller",
+        "romance",
+        "fantasy"
+      ]
+    },
+    {
+      "title": "Rotten Tomatoes Split",
+      "tag": "ref",
+      "desc": "Critics loved it, nobody actually enjoyed it, or the reverse. Where does this book land and why is the gap there.",
+      "genres": [
+        "contemporary",
+        "historical"
+      ]
+    },
+    {
+      "title": "Sequel Nobody Asked For",
+      "tag": "ref",
+      "desc": "Pitch the worst possible sequel, the one that exists purely to cash in. Bonus if it's more entertaining than the original.",
+      "genres": [
+        "thriller",
+        "romance",
+        "fantasy"
+      ]
+    },
+    {
+      "title": "The Alibi",
+      "tag": "confession",
+      "desc": "You didn't read it. Give the one detail you'd drop to convince the room you did. If it works, that's an indictment of the book.",
+      "genres": [
+        "universal"
+      ]
+    },
+    {
+      "title": "Devil's Advocate",
+      "tag": "roast",
+      "desc": "Defend the antagonist like you're being paid by the hour. Build an actual case.",
+      "genres": [
+        "thriller",
+        "romance",
+        "fantasy"
+      ]
+    },
+    {
+      "title": "True Crime Podcast Test",
+      "tag": "ref",
+      "desc": "Could this plot be a two-part true crime podcast episode. Pitch the title and the ad read that comes right after the worst cliffhanger.",
+      "genres": [
+        "thriller",
+        "historical"
+      ]
+    },
+    {
+      "title": "No Filter",
+      "tag": "roast",
+      "desc": "Two minutes, one person, straight roast of the author's choices. No compliments allowed, not even backhanded ones.",
+      "genres": [
+        "universal"
+      ]
+    },
+    {
+      "title": "Worst Seatmate",
+      "tag": "roast",
+      "desc": "Which character would be the most insufferable person to get stuck next to on a four-hour flight with a crying toddler two rows back and no headphones.",
+      "genres": [
+        "contemporary",
+        "romance",
+        "thriller",
+        "historical",
+        "fantasy"
+      ]
+    },
+    {
+      "title": "The One-Star Review",
+      "tag": "roast",
+      "desc": "Write the pettiest possible one-star review this book absolutely has sitting on a retailer site somewhere.",
+      "genres": [
+        "universal"
+      ]
+    },
+    {
+      "title": "The Wikipedia Test",
+      "tag": "dry",
+      "desc": "Be honest, would the plot summary have done the same job as the actual book.",
+      "genres": [
+        "historical"
+      ]
+    },
+    {
+      "title": "Would This Get Made Today",
+      "tag": "ref",
+      "desc": "Could this get published or greenlit right now, or is it too much a product of when it came out.",
+      "genres": [
+        "contemporary",
+        "historical"
+      ]
+    },
+    {
+      "title": "The Group Chat Favorites",
+      "tag": "sports",
+      "desc": "Build the case for this book's spot in the group chat's all-time favorites, or admit it's just taking up space nobody will remember.",
+      "genres": [
+        "universal"
+      ]
+    },
+    {
+      "title": "The Book Swap",
+      "tag": "sports",
+      "desc": "If you had to trade this book to a rival book club for one of their picks, what do you get back, and who got fleeced.",
+      "genres": [
+        "universal"
+      ]
+    },
+    {
+      "title": "The Hype Didn't Deliver Award",
+      "tag": "sports",
+      "desc": "Every book has one: the character or plotline the marketing hyped hardest that never actually shows up once you're in it.",
+      "genres": [
+        "universal"
+      ]
+    },
+    {
+      "title": "The Quiet Standout",
+      "tag": "sports",
+      "desc": "The minor character nobody expected anything from who quietly ends up carrying the whole book. Give her some flowers, nobody else will.",
+      "genres": [
+        "universal"
+      ]
+    },
+    {
+      "title": "The Foul Play Award",
+      "tag": "sports",
+      "desc": "The single moment the author did something cheap enough to make you put the book down \u2014 a contrived twist, an unearned death, a cop-out ending.",
+      "genres": [
+        "universal"
+      ]
+    },
+    {
+      "title": "Did It Earn the Extra Pages",
+      "tag": "sports",
+      "desc": "Does this book earn its extra length, or should it have wrapped up a hundred pages earlier.",
+      "genres": [
+        "universal"
+      ]
+    },
+    {
+      "title": "The Redemption Arc Award",
+      "tag": "sports",
+      "desc": "A character written off early who completely turns it around by the end. If nobody qualifies, say that too.",
+      "genres": [
+        "universal"
+      ]
+    },
+    {
+      "title": "Did the Setting Do the Work",
+      "tag": "sports",
+      "desc": "Did the setting do the heavy lifting here. Move the book somewhere else entirely and see if it survives the move.",
+      "genres": [
+        "universal"
+      ]
+    },
+    {
+      "title": "Best Group Chat Quote",
+      "tag": "sports",
+      "desc": "Read your favorite line or put-down from the book like you're texting it to the group chat mid-read. Bonus if you can say it with a straight face.",
+      "genres": [
+        "universal"
+      ]
+    },
+    {
+      "title": "Who Didn't Make It",
+      "tag": "sports",
+      "desc": "Which character got hurt, killed, or written out, and whether the book got better or worse the moment they left.",
+      "genres": [
+        "universal"
+      ]
+    },
+    {
+      "title": "The Plot Twist Nobody Called",
+      "tag": "sports",
+      "desc": "The twist or turn nobody in this room saw coming. Group chat gasp or nothing.",
+      "genres": [
+        "universal"
+      ]
+    },
+    {
+      "title": "The Nightstand Test",
+      "tag": "confession",
+      "desc": "Be honest about how this actually got read \u2014 cover to cover, audiobook at 1.5x during school drop-off, or crammed the last hundred pages the night before like a book report due tomorrow. No judgment. Immediate judgment.",
+      "genres": [
+        "universal"
+      ]
+    }
+  ],
+  "pitches": [],
+  "archive": [],
+  "meeting": {
+    "date": "",
+    "time": "",
+    "frequency": "Monthly",
+    "venue": "",
+    "address": ""
+  }
+}
