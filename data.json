@@ -43,7 +43,7 @@
     {
       "book": "The Five Year Lie",
       "author": "Sarina Bowen",
-      "cover": "https://m.media-amazon.com/images/I/71EnVy-cTIL._SL1500_.jpg",
+      "cover": "https://www.goodreads.com/en/book/show/195853534-the-five-year-lie",
       "pitcher": "",
       "avg": "8",
       "mvp": "",
@@ -54,15 +54,15 @@
       "scores": {}
     },
     {
-      "book": "Verity",
-      "author": "Colleen Hoover",
-      "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Alfred_Schwarzschild%27s_%22Truth%22.jpg/330px-Alfred_Schwarzschild%27s_%22Truth%22.jpg",
+      "book": "",
+      "author": "",
+      "cover": "",
       "pitcher": "",
-      "avg": "6",
+      "avg": "",
       "mvp": "",
       "lvp": "",
       "cage": "",
-      "genre": "thriller",
+      "genre": "",
       "quote": "",
       "scores": {}
     }
@@ -462,7 +462,7 @@
     {
       "book": "The Five Year Lie",
       "author": "Sarina Bowen",
-      "cover": "https://m.media-amazon.com/images/I/71EnVy-cTIL._SL1500_.jpg",
+      "cover": "https://www.goodreads.com/en/book/show/195853534-the-five-year-lie",
       "genre": "romance",
       "pitcher": "",
       "avg": "8",
@@ -486,5 +486,5 @@
     "responses": []
   },
   "formspreeEndpoint": "https://formspree.io/f/mbdnovgb",
-  "lastPublished": "2026-07-19T18:46:21.229Z"
+  "lastPublished": "2026-07-19T18:48:29.256Z"
 }
