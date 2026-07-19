@@ -15,16 +15,17 @@
   ],
   "scoreboard": [
     {
-      "book": "The Five-Star Weekend",
-      "author": "Elin Hilderbrand",
-      "cover": "https://upload.wikimedia.org/wikipedia/en/d/d8/The_Five-Star_Weekend.webp",
-      "pitcher": "Becky T",
-      "avg": "",
+      "book": "Verity",
+      "author": "Colleen Hoover",
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Alfred_Schwarzschild%27s_%22Truth%22.jpg/330px-Alfred_Schwarzschild%27s_%22Truth%22.jpg",
+      "pitcher": "",
+      "avg": "3",
       "mvp": "",
       "lvp": "",
       "cage": "",
-      "genre": "contemporary",
-      "quote": ""
+      "genre": "thriller",
+      "quote": "",
+      "scores": {}
     },
     {
       "book": "",
@@ -36,7 +37,8 @@
       "lvp": "",
       "cage": "",
       "genre": "",
-      "quote": ""
+      "quote": "",
+      "scores": {}
     },
     {
       "book": "",
@@ -48,7 +50,8 @@
       "lvp": "",
       "cage": "",
       "genre": "",
-      "quote": ""
+      "quote": "",
+      "scores": {}
     },
     {
       "book": "",
@@ -60,19 +63,8 @@
       "lvp": "",
       "cage": "",
       "genre": "",
-      "quote": ""
-    },
-    {
-      "book": "",
-      "author": "",
-      "cover": "",
-      "pitcher": "",
-      "avg": "",
-      "mvp": "",
-      "lvp": "",
-      "cage": "",
-      "genre": "",
-      "quote": ""
+      "quote": "",
+      "scores": {}
     }
   ],
   "categories": [
@@ -446,6 +438,10 @@
     "venue": "Apres",
     "address": "148 Anderson St, Portland, ME 04101"
   },
+  "meetingDraft": {
+    "attendees": [],
+    "responses": []
+  },
   "formspreeEndpoint": "https://formspree.io/f/mbdnovgb",
-  "lastPublished": "2026-07-19T14:50:34.668Z"
+  "lastPublished": "2026-07-19T18:32:03.208Z"
 }
