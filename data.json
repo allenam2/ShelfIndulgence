@@ -74,7 +74,7 @@
     {
       "title": "Best & Worst",
       "tag": "roast",
-      "desc": "Best character and worst character, back to back. \u201cThe protagonist\u201d isn't an automatic answer for best, that's just the one who remembers everyone's birthday and never gets thanked. Worst is whoever should've been written out by chapter two and instead got a whole redemption arc nobody asked for.",
+      "desc": "Best character and worst character, back to back. “The protagonist” isn't an automatic answer for best, that's just the one who remembers everyone's birthday and never gets thanked. Worst is whoever should've been written out by chapter two and instead got a whole redemption arc nobody asked for.",
       "genres": [
         "universal"
       ]
@@ -92,9 +92,9 @@
       ]
     },
     {
-      "title": "The \u201cWhat Was She Thinking\u201d Award",
+      "title": "The “What Was She Thinking” Award",
       "tag": "ref",
-      "desc": "The single most eye-roll-inducing choice in the book. You cannot nominate yourself \u2014 somebody else has to back you up independently or it doesn't count.",
+      "desc": "The single most eye-roll-inducing choice in the book. You cannot nominate yourself — somebody else has to back you up independently or it doesn't count.",
       "genres": [
         "contemporary",
         "romance",
@@ -106,7 +106,7 @@
     {
       "title": "Casting Call",
       "tag": "ref",
-      "desc": "Real actors only. \u201cI don't watch anything\u201d is not a pass, guess anyway and defend it.",
+      "desc": "Real actors only. “I don't watch anything” is not a pass, guess anyway and defend it.",
       "genres": [
         "contemporary",
         "romance",
@@ -161,7 +161,7 @@
       ]
     },
     {
-      "title": "The \u201cI Read This Before Kids\u201d Callback",
+      "title": "The “I Read This Before Kids” Callback",
       "tag": "confession",
       "desc": "Would you-before-motherhood have gotten anything from this, or does it only land now that you've got a mortgage, a carpool schedule, and none of the patience you used to fake having.",
       "genres": [
@@ -208,7 +208,7 @@
     {
       "title": "The Third Act Problem",
       "tag": "ref",
-      "desc": "Every movie falls apart in the third act. Does this book. Where exactly \u2014 \u201cthe ending\u201d is not an answer.",
+      "desc": "Every movie falls apart in the third act. Does this book. Where exactly — “the ending” is not an answer.",
       "genres": [
         "contemporary",
         "romance",
@@ -362,7 +362,7 @@
     {
       "title": "The Foul Play Award",
       "tag": "sports",
-      "desc": "The single moment the author did something cheap enough to make you put the book down \u2014 a contrived twist, an unearned death, a cop-out ending.",
+      "desc": "The single moment the author did something cheap enough to make you put the book down — a contrived twist, an unearned death, a cop-out ending.",
       "genres": [
         "universal"
       ]
@@ -418,7 +418,7 @@
     {
       "title": "The Nightstand Test",
       "tag": "confession",
-      "desc": "Be honest about how this actually got read \u2014 cover to cover, audiobook at 1.5x during school drop-off, or crammed the last hundred pages the night before like a book report due tomorrow. No judgment. Immediate judgment.",
+      "desc": "Be honest about how this actually got read — cover to cover, audiobook at 1.5x during school drop-off, or crammed the last hundred pages the night before like a book report due tomorrow. No judgment. Immediate judgment.",
       "genres": [
         "universal"
       ]
@@ -432,5 +432,7 @@
     "frequency": "Monthly",
     "venue": "",
     "address": ""
-  }
+  },
+  "formspreeEndpoint": "https://formspree.io/f/mbdnovgb",
+  "lastPublished": "2026-07-19T14:33:45.067Z"
 }
