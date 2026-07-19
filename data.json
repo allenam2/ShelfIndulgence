@@ -41,15 +41,15 @@
       "scores": {}
     },
     {
-      "book": "",
-      "author": "",
-      "cover": "",
+      "book": "The Five Year Lie",
+      "author": "Sarina Bowen",
+      "cover": "https://www.goodreads.com/en/book/show/195853534-the-five-year-lie",
       "pitcher": "",
-      "avg": "",
+      "avg": "8",
       "mvp": "",
       "lvp": "",
       "cage": "",
-      "genre": "",
+      "genre": "romance",
       "quote": "",
       "scores": {}
     },
@@ -472,5 +472,5 @@
     "responses": []
   },
   "formspreeEndpoint": "https://formspree.io/f/mbdnovgb",
-  "lastPublished": "2026-07-19T18:38:24.357Z"
+  "lastPublished": "2026-07-19T18:40:54.476Z"
 }
